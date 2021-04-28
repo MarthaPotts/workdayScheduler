@@ -1,35 +1,9 @@
 # workdayScheduler
 
-## Objectives
+Convenient hourly task organizer to assist with improving time management as well as acitivity logging. 
 
-CDN = Content Delivery/Distribution Network = geographically distrubited proxy servers and their data centers
--CDNs: CSS Frameworks, JS Libraries, custom fonts
+Covers "standard" 9am to 5pm workday hours. 
 
--- jQuery: DOM traversal/manipulation: implement interactivity using event handlers; resolve issues r/t **dynamically generated HTML** using jQuery
+Built with Bootstrap, jQuery UI, Moment.js powered by JavaScript
 
---Bootstrap: Grid & Layout/HTML: integrate Bootstrap Components in HTML to build UI
-
----add custom styling 
-
---jQuery UI widgets
-
---Moment.js
-
-## WHAT
-
-Workday Scheduler, std work hours (9-5)
-
-## WHEN
-
-@Open: displays current day/time at top, 
-@scroll: time-blocks of hours 9a - 5p
-@view for that day: color coded past, present, future
-@click: can 'enter an event'
-@click on time-block hour: text is saved in localStorage
-@refresh: saved events persist
-
-## WHERE
-
-URL to GitHub Repo
-
-URL to deployment/GH pages
+*OSU Coding Bootcamp project
