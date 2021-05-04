@@ -1,6 +1,6 @@
 // let value; 
 // let time; 
-document.ready(function() {
+$(document).ready(function() {
     //event listener
     $(".saveBtn").on("click", function() {
         let value = $(this).siblings(".description").val(); 
